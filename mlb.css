@@ -1,0 +1,29 @@
+/* Reset */
+#mlb {padding:0;margin:0;font:13px Arial,Helvetica,Garuda,sans-serif;*font-size:small;*font:x-small;}
+#mlb p{margin:1em 0;}
+#mlb table{font-size:inherit;font:100%;}
+#mlb h1,#mlb h2,#mlb h3,#mlb h4,#mlb h5,#mlb h6,#mlb ul,#mlb li,#mlb em,#mlb strong,#mlb pre,#mlb code{padding:0;margin:0;line-height:1em;font-size:100%;font-weight:normal;font-style:normal;}
+
+/* Form */
+#mlb { width: 24em; margin: 0 auto; border: 2px dashed #E0E0E0; text-align: center; padding: 5px; }
+#mlb table { margin: 0 auto; }
+#mlb table td { padding: 5px 0; }
+#mlb table input { width: 200px; padding: 5px; border: 1px solid #C7D5F5; }
+#mlb table input:focus { border: 1px solid #7A9FF5; }
+#mlb .mlb-submit { width: 100px; font-weight: bold; padding: 2px; margin: 0 auto; }
+#mlb #mlb-email-error { background-color: #FFCACA; margin: 0 5px; padding: 5px; }
+#mlb .cta { padding-bottom: 0.25em; font-size: 17px; }
+#mlb .success h2 { font-size: 40px; font-weight: bold; }
+#mlb .success p { font-size: 15px; font-weight: bold; }
+
+/* Widget */
+#mlbs { width: auto; margin: 0 auto; border: none; text-align: center; padding: 2px; }
+#mlbs table { margin: 0 auto; }
+#mlbs table td { padding: 2px; }
+#mlbs table input { width: auto; padding: 5px; border: 1px solid #C7D5F5; }
+#mlbs table input:focus { border: 1px solid #7A9FF5; }
+#mlbs .mlbs-submit { width: 100px; font-weight: bold; padding: 2px; margin: 3px auto; }
+#mlbs #mlbs-email-error { background-color: #FFCACA; margin: 2px 5px; padding: 5px; font-size: 12px; }
+#mlbs p { padding-bottom: 0.25em; }
+#mlbs .success h2 { font-size: 30px; font-weight: bold; }
+#mlbs .success p { font-size: 15px; font-weight: bold; }
